@@ -18,3 +18,4 @@ devtools::install_github("SharonLutz/PRSflex")
 library(PRSflex)
 ?PRSflex
 PRSflex(nSim=100)
+```
