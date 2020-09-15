@@ -1,0 +1,10 @@
+Package: PRSflex
+Type: Package
+Title: Runs the PRSflex function
+Version: 1.0
+Date: 2020-09-09
+Author: Sharon Lutz, Kirsten Voorhies
+Maintainer: Sharon Lutz <smlutz@hsph.harvard.edu>
+Description: This still needs to be filled in.
+Depends: caret, HDeconometrics
+License: GPL-2
