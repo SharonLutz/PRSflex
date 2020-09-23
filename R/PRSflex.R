@@ -1,5 +1,5 @@
 PRSflex <-
-function(nSim=100, nTrain=2500, nTest = 2500, varY=1, sigl=5e-8, betaS = seq(0,0.1,by=0.01),
+function(nSim=50, nTrain=2500, nTest = 2500, varY=1, sigl=5e-8, betaS = seq(0,0.1,by=0.05),
                    nAdd=25, nDom=25, nCod=25, nRec=25,
                    MAFadd = 0.05, MAFdom = 0.05, MAFcod = 0.05, MAFrec = 0.05,
                    plot.pdf=TRUE, SEED=1){
