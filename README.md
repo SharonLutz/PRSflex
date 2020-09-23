@@ -12,7 +12,7 @@ devtools::install_github("gabrielrvsc/HDeconometrics") # if not already installe
 
 devtools::install_github("SharonLutz/PRSflex")
 ```
-Note: ‘ggplot2’ was built under R version 4.0.2. You may need to update your version of R.
+Note: caret uses ‘ggplot2’, which was built under R version 4.0.2. You may need to update your version of R.
 ## Example
 ```
 library(PRSflex)
