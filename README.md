@@ -17,5 +17,5 @@ Note: caret uses ‘ggplot2’, which was built under R version 4.0.2. You may n
 ```
 library(PRSflex)
 ?PRSflex
-PRSflex(nSim=100)
+PRSflex(nSim=50)
 ```
