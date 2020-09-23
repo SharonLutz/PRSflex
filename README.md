@@ -7,12 +7,12 @@ In Progress
 install.packages("devtools") # devtools must be installed first
 install.packages("caret") # if not already installed 
 install.packages("stats") # if not already installed 
-install.packages("HDeconometrics") # if not already installed 
+devtools::install_github("gabrielrvsc/HDeconometrics") # if not already installed 
 
 
 devtools::install_github("SharonLutz/PRSflex")
 ```
-
+Note: ‘ggplot2’ was built under R version 4.0.2. You may need to update your version of R.
 ## Example
 ```
 library(PRSflex)
