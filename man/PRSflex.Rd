@@ -76,7 +76,7 @@ Sharon Lutz, Kirsten Voorhies
 
 
 PRSflex(nSim = 50, nTrain = 1000, nTest = 1000, varY = 1, 
-    sigl = 5e-08, betaS = seq(0, 0.08, by = 0.01), nAdd = 25, 
+    sigl = 5e-08, betaS = seq(0, 0.08, by = 0.04), nAdd = 25, 
     nDom = 25, nCod = 25, nRec = 25, MAFadd = 0.05, MAFdom = 0.05, 
     MAFcod = 0.05, MAFrec = 0.05, plot.pdf = FALSE, SEED = 1) 
 
